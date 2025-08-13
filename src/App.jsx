@@ -51,7 +51,7 @@ function App() {
     <>
       <div className='flex flex-col min-h-screen'>
          <Header/> 
-        <main className='flex flex-1 justify-center items-start  pt-[300px] bg-transparent w-full '>
+        <main className='flex flex-1 justify-center items-start pt-[100px] md:pt-[300px] bg-transparent w-full '>
           <div className='flex  w-fit h-fit'>
             <div className='sm:w-svh md:w-3xl flex flex-col justify-center items-center font-inter'>
               <div className=' flex items-center justify-center flex-col  gap-2.5 md:gap-5 mb-6 '>
