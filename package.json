@@ -12,6 +12,8 @@
   "dependencies": {
     "@huggingface/inference": "^4.6.1",
     "@tailwindcss/vite": "^4.1.11",
+    "gsap": "^3.13.0",
+    "huggingface": "^1.4.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-markdown": "^10.1.0"
